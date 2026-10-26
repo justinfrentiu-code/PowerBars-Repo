@@ -33,3 +33,24 @@ Description: Lightweight battery bars for jailbroken iOS.
 Author: Justin, ChatGPT (OpenAI)
 Name: PowerBars
 
+Package: com.justin.powerbars
+Version: 0.0.1-18
+Architecture: iphoneos-arm
+Maintainer: Justin
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.justin.powerbars_0.0.1-18_iphoneos-arm.deb
+Size: 58564
+MD5sum: e70538cd550b48c2f23fd85142dfb4ce
+SHA1: 5c84355249ffc405dd52453ec82ecd1874e1c1fc
+SHA256: 6f4a5a4429dc82b1fd4b040155b301626e990faba8d3bdc5c1e7e7086ef0d99b
+Section: Tweaks
+Description: Lightweight battery bars for jailbroken iOS.
+ Keep the bottom row of the Home Screen empty (no icons), because
+ PowerBars displays battery bars in that area and they may overlap icons.
+ Custom battery bars with very low observed standby battery consumption
+ on the tested iPod touch 5 running iOS 9.3.5.
+ Developed by Justin with development assistance from ChatGPT (OpenAI).
+Author: Justin, ChatGPT (OpenAI)
+Name: PowerBars
+
