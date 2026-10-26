@@ -1,0 +1,35 @@
+Package: com.justin.powerbars
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm
+Maintainer: Justin
+Installed-Size: 64
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.justin.powerbars_0.0.1-16+debug_iphoneos-arm.deb
+Size: 65044
+MD5sum: 3b51307319edc88637cf4fcbb0d5f9ed
+SHA1: f29a9a0627883b15b49acd4720c66038c502d031
+SHA256: 998cfbabbc347de2285086c554526d98dcc9924951af9202883eda7bd365f7ba
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Justin
+Name: PowerBars
+
+Package: com.justin.powerbars
+Version: 0.0.1-17
+Architecture: iphoneos-arm
+Maintainer: Justin
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.justin.powerbars_0.0.1-17_iphoneos-arm.deb
+Size: 58486
+MD5sum: 1407cf91e3813e1ff272ee056c407077
+SHA1: b0c5e39f9dbc3ed6f68c11e1a6d208d2ce241b04
+SHA256: 460744e222ee8ad2de2906a90988e0cdd3627081cbe9c98838057ce756e67e5f
+Section: Tweaks
+Description: Lightweight battery bars for jailbroken iOS.
+ Custom battery bars with very low observed standby battery consumption
+ on the tested iPod touch 5 running iOS 9.3.5.
+ Developed by Justin with development assistance from ChatGPT (OpenAI).
+Author: Justin, ChatGPT (OpenAI)
+Name: PowerBars
+
